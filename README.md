@@ -1,6 +1,6 @@
 # [MICCAI2024] Gaze-directed Vision GNN for Mitigating Shortcut Learning in Medical Image
 
-Paper link: [https://arxiv.org/abs/2406.14050](https://doi.org/10.1007/978-3-031-72378-0_48)
+Paper link: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_48
 
 This project is transfer to the following link:https://github.com/IPMI-NWU/GD-ViG
 
