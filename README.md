@@ -2,7 +2,7 @@
 
 Paper link: [https://arxiv.org/abs/2406.14050](https://doi.org/10.1007/978-3-031-72378-0_48)
 
-The project to transfer to the following link:https://github.com/IPMI-NWU/GD-ViG
+This project is transfer to the following link:https://github.com/IPMI-NWU/GD-ViG
 
 # Citation
 @InProceedings{10.1007/978-3-031-72378-0_48,<br>
